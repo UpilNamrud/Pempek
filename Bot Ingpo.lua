@@ -4,7 +4,7 @@ Rdp = {
     {nordp = 2, botname = "kazyuuu", Status = "Nonaktif"},
     {nordp = 2, botname = "zoruy", Status = "Nonaktif"},
     {nordp = 3, botname = "Tarfi", Status = "Nonaktif"},
-    {nordp = 3, botname = "Bayai", Status = "Nonaktif"}
+    {nordp = 3, botname = "GG", Status = "Aktif"}
 }
 
 ShowIP = false
@@ -20,4 +20,4 @@ Teks_Footer = "Golek Duit Kanggo Masa Depan"
 Emote_Offline = "<:offline:982957367392088124>"
 Emote_Online = "<:online:982957403756716052>"
 
-menit = 5 --TIAP BERAPA MENIT BOTNYA NGIRIM WEBHOOK
+menit = 1 --TIAP BERAPA MENIT BOTNYA NGIRIM WEBHOOK
